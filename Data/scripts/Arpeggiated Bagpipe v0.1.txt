@@ -1,0 +1,3 @@
+on init
+	declare ui_button $first_button
+end on
